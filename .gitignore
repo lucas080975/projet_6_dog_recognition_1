@@ -1,0 +1,6 @@
+venv/
+.venv
+images/
+.images
+Annotation/
+.Annotation
